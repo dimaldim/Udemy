@@ -58,6 +58,10 @@ services:
 #    arguments:
 #      $defaultLocale: '%kernel.default_locale%'
 
+  App\Event\UserSubscriber:
+    arguments:
+      $defaultLocale: '%kernel.default_locale%'
+
   App\Event\LocaleSubscriber:
     arguments:
       - '%kernel.default_locale%'
