@@ -25,6 +25,9 @@ jobs:
           name: Composer
           command: sudo composer self-update
       - run:
+          name: Changing directory
+          command: cd ~/micropost/twitter-like-app
+      - run:
           name: Composer install
           command: composer install -n --prefer-dist
       - run:
