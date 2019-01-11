@@ -7,14 +7,15 @@ jobs:
         environment:
           APP_ENV: test
           DATABASE_URL: mysql://root:root@127.0.0.1/micro-post
-          MAILER_FROM: me@me.com
+          MAILER_FROM: micro@micropost.com
           MAILER_URL: null://localhost
-      -image: circleci/mysql:5.7
-        MYSQL_ROOT_PASSWORD: 'root'
-        MYSQL_DATABASE: micro-post
+      - image: circleci/mysql:5.7
+        environment:
+          MYSQL_ROOT_PASSWORD: 'root'
+          MYSQL_DATABASE: micro-post
     steps:
       - checkout
-      - run
+      - run:
           name: Install PHP MySQL
           command: sudo docker-php-ext-install pdo_mysql
       - run:
