@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a30c216-6886-4bc8-bc70-e716ed939cb2" name="Default Changelist" comment="Added PHPUnit Tests" />
+    <list default="true" id="5a30c216-6886-4bc8-bc70-e716ed939cb2" name="Default Changelist" comment="Added PHPUnit Tests">
+      <change beforePath="$PROJECT_DIR$/../.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.circleci/config.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa4196.35285/full-source-code/.circleci/config.yml">
+        <entry file="file://$PROJECT_DIR$/../.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="476">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -59,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Repository/UserRepository.php" />
-        <option value="$PROJECT_DIR$/src/Controller/MicroPostController.php" />
         <option value="$PROJECT_DIR$/src/Controller/FollowingController.php" />
         <option value="$PROJECT_DIR$/src/Entity/MicroPost.php" />
         <option value="$PROJECT_DIR$/src/Controller/LikeController.php" />
@@ -110,6 +110,8 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/../../node-yarn-commands.txt" />
         <option value="$PROJECT_DIR$/.circleci/config.yml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa4196.35285/full-source-code/.circleci/config.yml" />
+        <option value="$PROJECT_DIR$/../.circleci/config.yml" />
       </list>
     </option>
   </component>
@@ -291,7 +293,7 @@
       <workItem from="1546948685850" duration="7387000" />
       <workItem from="1547017035807" duration="590000" />
       <workItem from="1547201352072" duration="3003000" />
-      <workItem from="1547208645256" duration="3177000" />
+      <workItem from="1547208645256" duration="3470000" />
     </task>
     <task id="LOCAL-00001" summary="Added User Preferences - Locale">
       <created>1546953995273</created>
@@ -311,7 +313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110837000" />
+    <option name="totallyTimeSpent" value="111130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +328,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798116" visible="true" weight="0.18276283" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798116" visible="true" weight="0.18276283" />
       <window_info id="Structure" order="1" sideWeight="0.50201887" side_tool="true" weight="0.23495702" />
       <window_info id="Favorites" order="2" sideWeight="0.5005599" side_tool="true" weight="0.19804402" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3295964" />
@@ -372,13 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/packages/swiftmailer.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
@@ -671,8 +666,15 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa4196.35285/full-source-code/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
         </state>
       </provider>
     </entry>
