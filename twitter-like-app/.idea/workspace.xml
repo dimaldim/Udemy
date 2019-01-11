@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a30c216-6886-4bc8-bc70-e716ed939cb2" name="Default Changelist" comment="Added PHPUnit Tests">
-      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5a30c216-6886-4bc8-bc70-e716ed939cb2" name="Default Changelist" comment="Added PHPUnit Tests" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa4196.35285/full-source-code/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
+            <state relative-caret-position="459">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -294,7 +291,7 @@
       <workItem from="1546948685850" duration="7387000" />
       <workItem from="1547017035807" duration="590000" />
       <workItem from="1547201352072" duration="3003000" />
-      <workItem from="1547208645256" duration="2518000" />
+      <workItem from="1547208645256" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="Added User Preferences - Locale">
       <created>1546953995273</created>
@@ -314,7 +311,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110178000" />
+    <option name="totallyTimeSpent" value="110837000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +326,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798116" visible="true" weight="0.18276283" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798116" visible="true" weight="0.18276283" />
       <window_info id="Structure" order="1" sideWeight="0.50201887" side_tool="true" weight="0.23495702" />
       <window_info id="Favorites" order="2" sideWeight="0.5005599" side_tool="true" weight="0.19804402" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3295964" />
@@ -375,13 +372,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/symfony/security-core/User/AdvancedUserInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/packages/swiftmailer.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -674,8 +664,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa4196.35285/full-source-code/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
         </state>
       </provider>
     </entry>
