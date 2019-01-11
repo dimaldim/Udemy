@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/micropost
+    working_directory: ~/micropost/twitter-like-app
     docker:
       - image: circleci/php:7.2.4-apache-stretch-node-browsers
         environment:
@@ -26,7 +26,7 @@ jobs:
           command: sudo composer self-update
       - run:
           name: Composer install
-          command: cd ~/micropost/twitter-like-app | composer install -n --prefer-dist
+          command: composer install -n --prefer-dist
       - run:
           name: Run migrations
           command: php bin/console doctrine:migrations:migrate --env=test --no-interaction
