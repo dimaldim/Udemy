@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Controller;
 
 
@@ -24,10 +25,10 @@ class BlogController
      */
     public function index(Request $request)
     {
-       $html = $this->twig->render('base.html.twig',
-           [
+        $html = $this->twig->render('base.html.twig',
+            [
 
-           ]);
-       return new Response($html);
+            ]);
+        return new Response($html);
     }
 }
