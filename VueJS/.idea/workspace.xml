@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4e26470-ba3a-4357-8700-1303b3ed4fbc" name="Default Changelist" comment="" />
+    <list default="true" id="d4e26470-ba3a-4357-8700-1303b3ed4fbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster Slayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Monster Slayer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitter-like-app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-like-app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitter-like-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-like-app/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +29,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Monster Slayer/app.js" />
-        <option value="$PROJECT_DIR$/Monster Slayer/index.html" />
         <option value="$USER_HOME$/Downloads/01. Introduction-to-HTML-Presentations/01. Introduction-to-HTML-Presentations.html" />
         <option value="$PROJECT_DIR$/Monster Slayer/README.md" />
+        <option value="$PROJECT_DIR$/Monster Slayer/app.js" />
+        <option value="$PROJECT_DIR$/Monster Slayer/index.html" />
       </list>
     </option>
   </component>
@@ -42,7 +47,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,20 +54,16 @@
               <item name="VueJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="VueJS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="VueJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VueJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Monster Slayer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitter-like-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -103,6 +103,7 @@
       <workItem from="1546845855886" duration="11667000" />
       <workItem from="1546933236587" duration="1189000" />
       <workItem from="1546948462935" duration="218000" />
+      <workItem from="1547469282420" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1546871826741</created>
@@ -129,12 +130,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13074000" />
+    <option name="totallyTimeSpent" value="14656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23777506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12482066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3295964" />
@@ -189,8 +190,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Monster Slayer/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -200,8 +201,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Monster Slayer/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
