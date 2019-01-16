@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d4e26470-ba3a-4357-8700-1303b3ed4fbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster Slayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Monster Slayer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-like-app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-like-app/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-like-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-like-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-cli/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-cli/src/App.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +22,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>server</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -33,6 +38,9 @@
         <option value="$PROJECT_DIR$/Monster Slayer/README.md" />
         <option value="$PROJECT_DIR$/Monster Slayer/app.js" />
         <option value="$PROJECT_DIR$/Monster Slayer/index.html" />
+        <option value="$PROJECT_DIR$/vue-cli/package-lock.json" />
+        <option value="$PROJECT_DIR$/vue-cli/package.json" />
+        <option value="$PROJECT_DIR$/vue-cli/src/App.vue" />
       </list>
     </option>
   </component>
@@ -47,6 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,18 +63,29 @@
               <item name="VueJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="VueJS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="VueJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VueJS" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VueJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VueJS" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Start" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -103,7 +123,8 @@
       <workItem from="1546845855886" duration="11667000" />
       <workItem from="1546933236587" duration="1189000" />
       <workItem from="1546948462935" duration="218000" />
-      <workItem from="1547469282420" duration="1582000" />
+      <workItem from="1547469282420" duration="4812000" />
+      <workItem from="1547485901412" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1546871826741</created>
@@ -126,22 +147,36 @@
       <option name="project" value="LOCAL" />
       <updated>1546872770771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1547471425871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547471425871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1547471578300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547471578300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14656000" />
+    <option name="totallyTimeSpent" value="18701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12482066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12625538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3295964" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.2735426" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.27345845" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39461884" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -149,7 +184,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4987775" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4987775" weight="0.32847533" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4987775" visible="true" weight="0.12064343" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5012225" side_tool="true" weight="0.3295964" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -203,6 +238,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-cli/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-cli/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-cli/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5479">
+          <caret line="7048" column="26" selection-start-line="7048" selection-start-column="26" selection-end-line="7048" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-cli/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
